@@ -1,0 +1,11 @@
+C:\devslask\_dotnetdocker\Simple\bin\Debug\netcoreapp2.0\Simple.deps.json
+C:\devslask\_dotnetdocker\Simple\bin\Debug\netcoreapp2.0\Simple.runtimeconfig.json
+C:\devslask\_dotnetdocker\Simple\bin\Debug\netcoreapp2.0\Simple.runtimeconfig.dev.json
+C:\devslask\_dotnetdocker\Simple\bin\Debug\netcoreapp2.0\Simple.dll
+C:\devslask\_dotnetdocker\Simple\bin\Debug\netcoreapp2.0\Simple.pdb
+C:\devslask\_dotnetdocker\Simple\obj\Debug\netcoreapp2.0\Simple.csprojResolveAssemblyReference.cache
+C:\devslask\_dotnetdocker\Simple\obj\Debug\netcoreapp2.0\Simple.csproj.CoreCompileInputs.cache
+C:\devslask\_dotnetdocker\Simple\obj\Debug\netcoreapp2.0\Simple.AssemblyInfoInputs.cache
+C:\devslask\_dotnetdocker\Simple\obj\Debug\netcoreapp2.0\Simple.AssemblyInfo.cs
+C:\devslask\_dotnetdocker\Simple\obj\Debug\netcoreapp2.0\Simple.dll
+C:\devslask\_dotnetdocker\Simple\obj\Debug\netcoreapp2.0\Simple.pdb
